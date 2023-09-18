@@ -1,0 +1,8 @@
+"AppState"
+{
+	"appid"		"appid_replace"
+	"universe"		"1"
+	"name"		"gamename_replace"
+	"StateFlags"		"4"
+	"SizeOnDisk"		"gamesize_replace"
+}
